@@ -101,12 +101,12 @@ figure.hero {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+aside.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+/* .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -114,7 +114,7 @@ figure.hero {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} */
 
 .benefit-lead h3 {
     margin-bottom: 10px;
